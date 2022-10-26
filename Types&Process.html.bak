@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Types&Process</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 150px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 160px; /* Same width as the sidebar + left position in px */
+  margin-right:25px;
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+p{
+text-align:justify;
+}
+</style>
+</head>
+<body>
+<div class="sidenav">
+  <a href="about.html">About</a>
+  <a href="about.html">History</a>
+  <a href="Types&process.html">Types & process</a>
+</div>
+<div class="main">
+<br>
+<center>
+<br>
+<h3>Srikalahasthi Style</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfVKMrugoMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br>
+ <h3>Machilipatnam Style</h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/bPCX22jvVFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </center><br>
+ <br>
+ <br>
+<center><img src="./img/z.jpg"></center>
+
+<center><h1>Kalamkari Art Designs – The Evolution</h1></center>
+<center><p>
+Kalamkari art form traces its origins way back 2500 years to Iran (Persia then). The name depicts Kari (craftwork) using kalam (pen). It can be hand-painted or block-printed on cotton fabric.
+
+<br>
+<br>Over time, trade became the most important factor in creation of demand for exotic art forms. Traders brought their cultural influence to the designs in order to satisfy global market needs and in turn helped in the spread and the development of the artform.
+
+<br><br>Kalamkari art designs gained prominence in ancient India as a storytelling medium. Hindu Mythology is full of interesting stories of gods and their miracles or kings and their iconic wars or heroic tales of a common man. Storytellers back then used to draw characters and scenes on a 
+
+ piece of cloth using vegetable dyes and display them while singing out the narrative, describing the epics o
+ 
+f Ramayana, Mahabharata, Hindu deities and so on. Now you know how these tales spread across miles without any technology in play.</p></center>
+
+<center><img src="./img/y.jpg">
+<p>We humans are instinctively communicative and creative beings. Not only have we adapted to conditions on earth but also have tried to beautify our lives in whatever ways we can. As a result, so many art forms have taken birth out of our creative minds like Kalamkari.
+
+<br><br>Though the style of Kalamkari art designs and handicrafts came about as a storytelling medium, it took its own shape in different regions according to the demand and the cultural influence via trade and commerce in the Medieval Period.</p>
+</center><h3>Some of the major styles of Kalamkari Art that developed and became popular were:</h3>
+
+<h4>1) Srikalahasti Style</h4>
+<center>
+<p>Srikalahasti Temple in Andhra Pradesh is a popular pilgrimage site fo
+r Hindus dedicated to Lord Shiva. The temple gained importance under Pallava rulers (6th -9th century AD). It was fu
+rther e
+xpanded during Cholas (9th -13th Century AD) and Vijayanagara Empire (14th – 17th century AD). During those days, the paintings do
+ne on cloth were used as background or canopies to the God’s statues. Paintings usually were related to Hindu religion or nature. T
+his style was done purely by free hand drawing using a bamboo stick with a hair-thin tip dipped in vegetable dyes.</p>
+<img src="./img/u.jpg"></center>
+<h4>2) Machlipatnam Style</h4><center><p>
+
+Machlipatnam was a port city during the medieval period of 15th -17th century AD. Machlipatnam style was an amalgamation of 
+local motifs and cultural influence from Persia and Europe from where a lot of trade use to happen. So, the style was more global and w
+asn’t constrained by religion or mythology. They were more inclined towards patterns and shapes with respect to depicting flora and 
+fauna including human figures. This technique included printing of bigger motifs
+ on cloth with hand-carved traditional blocks and then painting the intricate details by hands.</p>
+ <img src="./img/v.jpg"></center>
+ <h4>Technique behind the art</h4>
+ <h6>The basic process flow of making Kalamkari Textiles involves the following steps:</h6>
+  <center><img src="./img/process.jpg"></center>
+  <h4>Kalamkari in today's world</h4>
+  <center><p>Today we come across Kalamkari in its pure form as bedsheets, curtains, bags, sarees, dress materials. An art which adorned the temples in olden times has come to our own homes in different forms and shapes. Artforms like Kalamkari have started gaining more and more popularity in recent times because of their no-chemical process of creating printed textiles. The start to finish process of this art involves use of vegetable dyes, fruit powder and minerals like iron to produce colors and paint, on an organic cotton cloth. Increasingly, people in the world are moving towards lesser use of chemicals in their lives and thus, anything organic and vegan is a preferred commodity for consumption in today’s world.
+
+<br><br>Most popular of Kalamkari’s use today is in making sarees. Saree is the most beloved attire for an Indian woman. Despite many 
+of us adopting western ways of dressing nowa
+days, a handcrafted saree is still a treasured and cherished outfit for most Indian women.</p>
+<img src="./img/i.jpg">
+<p>Home Décor has been another major user of this artform. Imagine a minimalistic living room, a white couch with a Kalamkari cushion to add color and ethnic highlight to it!</p>
+<img src="./img/j.jpg"></center>
+</body>
+</html>

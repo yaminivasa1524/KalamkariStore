@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>About Kalamkari</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 150px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 160px; /* Same width as the sidebar + left position in px */
+  margin-right:25px;
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+p{
+text-align:justify;
+}
+</style>
+</head>
+<body>
+
+<div class="sidenav">
+  <a href="about1.html">About</a>
+  <a href="about.html">History</a>
+  <a href="Types&process.html">Types & process</a>
+</div>
+<center><h1>About</h1></center>
+<div class="main">
+<p>
+In this page we provided kalamkari products are nothing but kalamkari Sarees,dresses,duppatas,Any one can buy this products any where 
+First we need to Register after we can buy the products any time u login this page by using usename & password.select your favouite product 
+in this page and buy it...
+Initial representation of Kalamkari art was as religious paintings that depicted Indian Gods. Kalamkari started off during the
+
+ Mughal dynasty and presently Andhra Pradesh is the largest producer of Kalamkari fabric. Kalamkari is an intricate art form and req
+ uires a tedious technique in its making; because of which the art of Kalamkari was losing its shine. With the emergence of high qual
+ ity machine looms and acceptance for printed textiles; Kalamkari art came on the verge of extinction. However, printed Kalamkari is a 
+ new craze among the current generation, as it is a combination of traditional and modern trends. Fashion industry came together to revi
+ ve this art and helped artisans of Andhra Pradesh for practicing this art. Kalamkari sarees, kalamkari dresses and kalamkari blouses are
+ a huge running trend. Several fashion designers beautifully portrayed kalamkari sarees on fashion runways and got a great response.
+ Initial representation of Kalamkari art was as religious paintings that depicted Indian Gods. Kalamkari started off during the
+
+ Mughal dynasty and presently Andhra Pradesh is the largest producer of Kalamkari fabric. Kalamkari is an intricate art form and req
+ uires a tedious technique in its making; because of which the art of Kalamkari was losing its shine. With the emergence of high qual
+ ity machine looms and acceptance for printed textiles; Kalamkari art came on the verge of extinction. However, printed Kalamkari is a 
+ new craze among the current generation, as it is a combination of traditional and modern trends. Fashion industry came together to revi
+ ve this art and helped artisans of Andhra Pradesh for practicing this art. Kalamkari sarees, kalamkari dresses and kalamkari blouses are
+ a huge running trend. Several fashion designers beautifully portrayed kalamkari sarees on fashion runways and got a great response.
+ Initial representation of Kalamkari art was as religious paintings that depicted Indian Gods. Kalamkari started off during the
+
+ Mughal dynasty and presently Andhra Pradesh is the largest producer of Kalamkari fabric. Kalamkari is an intricate art form and req
+ uires a tedious technique in its making; because of which the art of Kalamkari was losing its shine. With the emergence of high qual
+ ity machine looms and acceptance for printed textiles; Kalamkari art came on the verge of extinction. However, printed Kalamkari is a 
+ new craze among the current generation, as it is a combination of traditional and modern trends. Fashion industry came together to revi
+ ve this art and helped artisans of Andhra Pradesh for practicing this art. Kalamkari sarees, kalamkari dresses and kalamkari blouses are
+ a huge running trend. Several fashion designers beautifully portrayed kalamkari sarees on fashion runways and got a great response.
+ Initial representation of Kalamkari art was as religious paintings that depicted Indian Gods. Kalamkari started off during the
+
+ Mughal dynasty and presently Andhra Pradesh is the largest producer of Kalamkari fabric. Kalamkari is an intricate art form and req
+ uires a tedious technique in its making; because of which the art of Kalamkari was losing its shine. With the emergence of high qual
+ ity machine looms and acceptance for printed textiles; Kalamkari art came on the verge of extinction. However, printed Kalamkari is a 
+ new craze among the current generation, as it is a combination of traditional and modern trends. Fashion industry came together to revi
+ ve this art and helped artisans of Andhra Pradesh for practicing this art. Kalamkari sarees, kalamkari dresses and kalamkari blouses are
+ a huge running trend. Several fashion designers beautifully portrayed kalamkari sarees on fashion runways and got a great response.
+ Initial representation of Kalamkari art was as religious paintings that depicted Indian Gods. Kalamkari started off during the
+
+ Mughal dynasty and presently Andhra Pradesh is the largest producer of Kalamkari fabric. Kalamkari is an intricate art form and req
+ uires a tedious technique in its making; because of which the art of Kalamkari was losing its shine. With the emergence of high qual
+ ity machine looms and acceptance for printed textiles; Kalamkari art came on the verge of extinction. However, printed Kalamkari is a 
+ new craze among the current generation, as it is a combination of traditional and modern trends. Fashion industry came together to revi
+ ve this art and helped artisans of Andhra Pradesh for practicing this art. Kalamkari sarees, kalamkari dresses and kalamkari blouses are
+ a huge running trend. Several fashion designers beautifully portrayed kalamkari sarees on fashion runways and got a great response.
+ </p>
+<p>One of a kind qualities of kalamkari painting is all about the vibrant colours used and no shading is done. Intricate detailing is given to each product.</p> 
+ <br><p> Free Shipping in India on orders above ₹ 999. We deliver within 4 to 7 days. See our Shipping page for details.</p>

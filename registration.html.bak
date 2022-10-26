@@ -1,0 +1,67 @@
+<html>
+<head>
+<title> registration Form</title>
+<style>
+td{
+padding-left:20px;
+padding-top:8px;
+}
+table
+{
+width:450px;
+}
+body{
+background-image:url(./img/cloud.gif);
+background-repeat:no-repeat;
+background-size:cover;
+}
+</style>
+</head>
+<body>
+<form>
+<center>
+<div class="card justify-content-center" style="width:30rem;background-color:#FBEFF2;margin-top:1%; margin-bottom:5%; padding:2%;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border-radius:10%; background-image: linear-gradient(to left bottom, #eb7811, #ff786c, #ff8db0, #f3ade0, #dccaf4, #ccc5f7, #b9c1f9, #a1bdfa, #759cff, #4c79ff, #2753fa, #151fee);">
+<h1><u>REGISTRATION FORM</u></h1>
+<table border=1>
+<tr><th><label for="e"><b>First name</b></label></th>
+           <td><input type="text"placeholder="Enter your First name" id="e" name="fname" value=""><br/><br/></td></tr>
+
+           <tr><th> <label for="e1"><b>Last name</b></label></th>
+           <td> <input type="text" placeholder="Enter your Last name" id="e1" name="lname" value=""><br/><br/></td></tr>
+
+
+		<tr cellpadding=2 cellspacing=2><th><label for="mobile"><b>Mobile Number</b></label></th>
+	    <td ><input type="text"placeholder="Enter your mobile number"  id="mobile"name="mobile" value=""><br/><br/></td></tr>
+
+   <tr> <th><label for="user"><b>Email</b></label></th>
+   <td> <input type="text" placeholder="Enter Email" name="email" id="user" required><br/><br/></td></tr>
+
+   <tr><th> <label for="pwd"><b>Password</b></label></th>
+    <td><input type="password" placeholder="Enter Password" name="psw" id="pwd" required><br/><br/></td></tr>
+<tr><th><label for="Date"><b>Date:</b></label></th>
+  <td><input type="date" id="date" name="date"><br><br></td></tr>
+
+          
+        <tr><th><label for="Address"><b>Address</b></label></th>
+      <td>  <textarea placeholder="Enter your address" id="Address" required></textarea><br/></td></tr>
+		 <h1></h1>
+		 <h2></h2>
+		 <h3></h3>
+		<tr><th><b> Gender:</th></b>
+		 <td><input type="radio" id="female" name="gender"value="female"><label for="female">Female</label>
+		 <input type="radio" id="male" name="gender" value="male"><label for="male">Male</label><br/><br></td></tr>
+		
+</div>
+</table>
+</br>
+<center><tr><input type="submit" value="Submit" onclick="validate()" style="background-color:powderblue;"></tr></center>
+
+</center>
+	</form>
+</body>
+<script>
+function validate() {
+  alert("your are register sucessfully....!");
+					}
+</script>
+</html>

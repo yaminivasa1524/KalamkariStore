@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+div{
+ background: linear-gradient(to bottom, #33ccff 0%, #ff66cc 100%);
+ border-radius:15%;
+}
+</style>
+<center>
+<body>
+
+<form>
+		<center>
+		<div class="card justify-content-center" style="width:15rem;background-color:#FBEFF2;margin-top:2%; margin-bottom:5%; padding:2%;  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+<b><center><h2>Login</h2></center></b><br>
+    <label for="email"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="email" id="email" required><br><br>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required><br/>
+
+		<input type="checkbox" id="vehicle1" name="vehicle1" value="me">
+         <label for="vehicle1"> Remember me</label><br/><br><br>
+		<button type="button" onclick="validate()" class="btn" style="background-color: #64B4E4">submit</button>
+
+</div>
+</center>
+</form>
+</center>
+<script>
+function validate() {
+  alert("your are logged sucessfully....!");
+					}
+</script>
+</html>
